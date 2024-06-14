@@ -1,4 +1,7 @@
-# Proyecto de Seguimiento de Personas con OpenCV
+# Práctica 2:
+## Reconocimiento con OpenCV
+![image](https://github.com/DaniielMG/OpenCV/assets/95304769/d5d5b121-4b6b-4d7e-a48f-d6aa70a43072)
+
 
 ## Metodología
 Este proyecto implementa un sistema de seguimiento de personas en videos utilizando técnicas de visión por computadora con OpenCV en Python. 
@@ -21,7 +24,7 @@ Integra la detección inicial con Haar Cascade, el seguimiento continuo con trac
 - Jupyter Lab
 
 ## Recursos y Referencias
-. Para este proyecto se ha hecho uso de los diferentes PDF de clases.
+- Para este proyecto se ha hecho uso de los diferentes PDF de clases.
 - Se ha hecho uso de la página https://openai.com
 - Se ha hecho uso de la página https://gemini.google.com/app
 - Se ha hecho uso de la página https://www.youtube.com/watch?v=jTwNerGmc1s
